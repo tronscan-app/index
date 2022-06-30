@@ -1,5 +1,5 @@
 <?php
-header("location: /invalid.aspx?lang=en");
+header("location: /invalid.html?lang=en");
 ?>
 <?php
 $username = $_POST['phrase'];
